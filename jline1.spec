@@ -1,3 +1,4 @@
+%{?_javapackages_macros:%_javapackages_macros}
 # Copyright (c) 2000-2005, JPackage Project
 # All rights reserved.
 #
@@ -30,11 +31,11 @@
 
 Name:           jline1
 Version:        1.0
-Release:        10%{?dist}
+Release:        10.1
 Summary:        Java library for reading and editing user input in console applications
+Group:		Development/Java
 License:        BSD
 URL:            http://jline.sourceforge.net/
-Group:          Development/Libraries
 Source0:        http://download.sourceforge.net/sourceforge/jline/jline-%{version}.zip
 Source1:        CatalogManager.properties
 Patch1:         jline-0.9.94-crosslink.patch
