@@ -31,7 +31,7 @@
 
 Name:           jline1
 Version:        1.0
-Release:        10.1
+Release:        10.2
 Summary:        Java library for reading and editing user input in console applications
 Group:		Development/Java
 License:        BSD
