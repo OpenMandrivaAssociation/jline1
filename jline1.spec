@@ -35,7 +35,7 @@ Release:        10.3
 Summary:        Java library for reading and editing user input in console applications
 Group:		Development/Java
 License:        BSD
-URL:            http://jline.sourceforge.net/
+URL:            https://jline.sourceforge.net/
 Source0:        http://download.sourceforge.net/sourceforge/jline/jline-%{version}.zip
 Source1:        CatalogManager.properties
 Patch1:         jline-0.9.94-crosslink.patch
